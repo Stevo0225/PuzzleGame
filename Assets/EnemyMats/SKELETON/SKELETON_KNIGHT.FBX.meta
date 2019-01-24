@@ -1,0 +1,966 @@
+fileFormatVersion: 2
+guid: 9c1b707b80c272f42b8f152b1ca7b827
+timeCreated: 1458252618
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 2HANDED_SWORD
+    100002: HELMET
+    100004: PROTECTION
+    100006: SHIELD
+    100008: //RootNode
+    100010: skeleton_knight
+    100012: skeleton_knight_
+    100014: skeleton_knight_ Head
+    100016: skeleton_knight_ L Calf
+    100018: skeleton_knight_ L Clavicle
+    100020: skeleton_knight_ L Finger0
+    100022: skeleton_knight_ L Finger01
+    100024: skeleton_knight_ L Finger02
+    100026: skeleton_knight_ L Finger1
+    100028: skeleton_knight_ L Finger11
+    100030: skeleton_knight_ L Finger12
+    100032: skeleton_knight_ L Finger2
+    100034: skeleton_knight_ L Finger21
+    100036: skeleton_knight_ L Finger22
+    100038: skeleton_knight_ L Finger3
+    100040: skeleton_knight_ L Finger31
+    100042: skeleton_knight_ L Finger32
+    100044: skeleton_knight_ L Finger4
+    100046: skeleton_knight_ L Finger41
+    100048: skeleton_knight_ L Finger42
+    100050: skeleton_knight_ L Foot
+    100052: skeleton_knight_ L Forearm
+    100054: skeleton_knight_ L Hand
+    100056: skeleton_knight_ L Thigh
+    100058: skeleton_knight_ L Toe0
+    100060: skeleton_knight_ L Toe01
+    100062: skeleton_knight_ L Toe02
+    100064: skeleton_knight_ L UpperArm
+    100066: skeleton_knight_ Neck
+    100068: skeleton_knight_ Neck1
+    100070: skeleton_knight_ Pelvis
+    100072: skeleton_knight_ R Calf
+    100074: skeleton_knight_ R Clavicle
+    100076: skeleton_knight_ R Finger0
+    100078: skeleton_knight_ R Finger01
+    100080: skeleton_knight_ R Finger02
+    100082: skeleton_knight_ R Finger1
+    100084: skeleton_knight_ R Finger11
+    100086: skeleton_knight_ R Finger12
+    100088: skeleton_knight_ R Finger2
+    100090: skeleton_knight_ R Finger21
+    100092: skeleton_knight_ R Finger22
+    100094: skeleton_knight_ R Finger3
+    100096: skeleton_knight_ R Finger31
+    100098: skeleton_knight_ R Finger32
+    100100: skeleton_knight_ R Finger4
+    100102: skeleton_knight_ R Finger41
+    100104: skeleton_knight_ R Finger42
+    100106: skeleton_knight_ R Foot
+    100108: skeleton_knight_ R Forearm
+    100110: skeleton_knight_ R Hand
+    100112: skeleton_knight_ R Thigh
+    100114: skeleton_knight_ R Toe0
+    100116: skeleton_knight_ R Toe01
+    100118: skeleton_knight_ R Toe02
+    100120: skeleton_knight_ R UpperArm
+    100122: skeleton_knight_ Spine
+    100124: skeleton_knight_ Spine1
+    100126: skeleton_knight_ Spine2
+    100128: SWORD
+    100130: WEAPON_BONE
+    400000: 2HANDED_SWORD
+    400002: HELMET
+    400004: PROTECTION
+    400006: SHIELD
+    400008: //RootNode
+    400010: skeleton_knight
+    400012: skeleton_knight_
+    400014: skeleton_knight_ Head
+    400016: skeleton_knight_ L Calf
+    400018: skeleton_knight_ L Clavicle
+    400020: skeleton_knight_ L Finger0
+    400022: skeleton_knight_ L Finger01
+    400024: skeleton_knight_ L Finger02
+    400026: skeleton_knight_ L Finger1
+    400028: skeleton_knight_ L Finger11
+    400030: skeleton_knight_ L Finger12
+    400032: skeleton_knight_ L Finger2
+    400034: skeleton_knight_ L Finger21
+    400036: skeleton_knight_ L Finger22
+    400038: skeleton_knight_ L Finger3
+    400040: skeleton_knight_ L Finger31
+    400042: skeleton_knight_ L Finger32
+    400044: skeleton_knight_ L Finger4
+    400046: skeleton_knight_ L Finger41
+    400048: skeleton_knight_ L Finger42
+    400050: skeleton_knight_ L Foot
+    400052: skeleton_knight_ L Forearm
+    400054: skeleton_knight_ L Hand
+    400056: skeleton_knight_ L Thigh
+    400058: skeleton_knight_ L Toe0
+    400060: skeleton_knight_ L Toe01
+    400062: skeleton_knight_ L Toe02
+    400064: skeleton_knight_ L UpperArm
+    400066: skeleton_knight_ Neck
+    400068: skeleton_knight_ Neck1
+    400070: skeleton_knight_ Pelvis
+    400072: skeleton_knight_ R Calf
+    400074: skeleton_knight_ R Clavicle
+    400076: skeleton_knight_ R Finger0
+    400078: skeleton_knight_ R Finger01
+    400080: skeleton_knight_ R Finger02
+    400082: skeleton_knight_ R Finger1
+    400084: skeleton_knight_ R Finger11
+    400086: skeleton_knight_ R Finger12
+    400088: skeleton_knight_ R Finger2
+    400090: skeleton_knight_ R Finger21
+    400092: skeleton_knight_ R Finger22
+    400094: skeleton_knight_ R Finger3
+    400096: skeleton_knight_ R Finger31
+    400098: skeleton_knight_ R Finger32
+    400100: skeleton_knight_ R Finger4
+    400102: skeleton_knight_ R Finger41
+    400104: skeleton_knight_ R Finger42
+    400106: skeleton_knight_ R Foot
+    400108: skeleton_knight_ R Forearm
+    400110: skeleton_knight_ R Hand
+    400112: skeleton_knight_ R Thigh
+    400114: skeleton_knight_ R Toe0
+    400116: skeleton_knight_ R Toe01
+    400118: skeleton_knight_ R Toe02
+    400120: skeleton_knight_ R UpperArm
+    400122: skeleton_knight_ Spine
+    400124: skeleton_knight_ Spine1
+    400126: skeleton_knight_ Spine2
+    400128: SWORD
+    400130: WEAPON_BONE
+    2300000: 2HANDED_SWORD
+    2300002: HELMET
+    2300004: SHIELD
+    2300006: SWORD
+    2300008: WEAPON_BONE
+    3300000: 2HANDED_SWORD
+    3300002: HELMET
+    3300004: SHIELD
+    3300006: SWORD
+    3300008: WEAPON_BONE
+    4300000: PROTECTION
+    4300002: skeleton_knight
+    4300004: HELMET
+    4300006: SHIELD
+    4300008: 2HANDED_SWORD
+    4300010: WEAPON_BONE
+    4300012: SWORD
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: PROTECTION
+    13700002: skeleton_knight
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: <Root Transform>
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: skeleton_knight_ Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ Neck1
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Finger02
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Finger4
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Finger41
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Finger42
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Finger3
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Finger31
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Finger32
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Finger2
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Finger21
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Finger22
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Finger1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Finger11
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ L Finger12
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Finger01
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Finger02
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Finger4
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Finger41
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Finger42
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Finger3
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Finger31
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Finger32
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Finger2
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Finger21
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Finger22
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Finger1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Finger11
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: skeleton_knight_ R Finger12
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: SKELETON_KNIGHT(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: PROTECTION
+      position: {x: -0.00004577614, y: 1.5241226, z: 0.041455507}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_knight
+      position: {x: -0.00003888453, y: 0, z: -0.00004469805}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_knight_
+      position: {x: 0, y: 1, z: 0}
+      rotation: {x: -0.49988565, y: 0.5001371, z: 0.50001323, w: 0.49996406}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_knight_ Pelvis
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0.49999928, y: -0.5000001, z: -0.5, w: -0.5000007}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: skeleton_knight_ L Thigh
+      position: {x: 0.000000076293944, y: 0.00000017126091, z: 0.09197499}
+      rotation: {x: -0.00056628877, y: 0.9999282, z: -0.0006347298, w: 0.011959268}
+      scale: {x: 0.9999996, y: 1.0000002, z: 0.9999995}
+      transformModified: 1
+    - name: skeleton_knight_ L Calf
+      position: {x: -0.49877298, y: 0, z: 0.000000009536743}
+      rotation: {x: -0.000000014901158, y: 0, z: 0.060617387, w: 0.9981611}
+      scale: {x: 1.0000004, y: 0.9999999, z: 1.0000001}
+      transformModified: 1
+    - name: skeleton_knight_ L Foot
+      position: {x: -0.394487, y: 0, z: 0}
+      rotation: {x: 0.00009220837, y: 0.011976449, z: -0.060047768, w: 0.99812365}
+      scale: {x: 1, y: 1.0000002, z: 1.0000004}
+      transformModified: 1
+    - name: skeleton_knight_ L Toe0
+      position: {x: -0.105771, y: 0.124354005, z: -0.007907009}
+      rotation: {x: 0, y: 0.000000003743479, z: -0.70710677, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: skeleton_knight_ L Toe01
+      position: {x: -0.02978199, y: 0, z: 0}
+      rotation: {x: 0.00000011063091, y: 0.0000000596075, z: 0.0000000035215626, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: skeleton_knight_ L Toe02
+      position: {x: -0.029782018, y: 0, z: 0}
+      rotation: {x: -0.000000047097263, y: 3.8191664e-13, z: 0.000000014370013, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_knight_ R Thigh
+      position: {x: -0.000000076293944, y: -0.00000008384697, z: -0.091975}
+      rotation: {x: -0.00056621426, y: 0.9999281, z: 0.0006332397, w: -0.011960713}
+      scale: {x: 1, y: 0.99999994, z: 0.99999976}
+      transformModified: 1
+    - name: skeleton_knight_ R Calf
+      position: {x: -0.49877304, y: 7.4505804e-11, z: 0.000000009536743}
+      rotation: {x: -0.000000029802319, y: 0.000000059604638, z: 0.060617365, w: 0.9981611}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: skeleton_knight_ R Foot
+      position: {x: -0.39448705, y: 0.0000000047683715, z: -0.000000009536743}
+      rotation: {x: -0.000092148766, y: -0.011976479, z: -0.060047813, w: 0.9981237}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1.0000002}
+      transformModified: 1
+    - name: skeleton_knight_ R Toe0
+      position: {x: -0.105771, y: 0.124354, z: 0.00790699}
+      rotation: {x: 0.000000089406946, y: 0.000000093154064, z: -0.7071067, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: skeleton_knight_ R Toe01
+      position: {x: -0.029781993, y: 0, z: 0}
+      rotation: {x: 0.000000007414199, y: -0.00000005961455, z: -0.000000099724254,
+        w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: skeleton_knight_ R Toe02
+      position: {x: -0.029781999, y: 0, z: 0}
+      rotation: {x: 0.000000042971795, y: 0.000000059603387, z: -0.000000022006128,
+        w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: skeleton_knight_ Spine
+      position: {x: -0.10577103, y: -0.00012689609, z: 0.00000014686957}
+      rotation: {x: 0.0000021457672, y: -0.00000071525574, z: 0.00039815903, w: -1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_knight_ Spine1
+      position: {x: -0.15942298, y: -0.00012694448, z: -3.352761e-10}
+      rotation: {x: -0.000000029802315, y: -0.00000005960463, z: 0.000000014901158,
+        w: 1}
+      scale: {x: 0.9999999, y: 0.9999998, z: 1}
+      transformModified: 1
+    - name: skeleton_knight_ Spine2
+      position: {x: -0.15942283, y: -0.00012694426, z: -3.72529e-10}
+      rotation: {x: 0, y: -0.000000029802315, z: -0.000000044703473, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: skeleton_knight_ Neck
+      position: {x: -0.1594319, y: -0.00011442594, z: -2.9802322e-10}
+      rotation: {x: 0.000000044703484, y: 0.00000032782555, z: -0.087155774, w: 0.9961948}
+      scale: {x: 0.9999998, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_knight_ Neck1
+      position: {x: -0.065504454, y: -0.00005197525, z: -1.4901161e-10}
+      rotation: {x: -0.000000029802315, y: -0.00000020861621, z: 0.0436191, w: 0.99904823}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_knight_ Head
+      position: {x: -0.065509185, y: 0, z: 0}
+      rotation: {x: 0.000000014901159, y: 0.0000001490116, z: -0.043220874, w: 0.9990655}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.99999994}
+      transformModified: 1
+    - name: HELMET
+      position: {x: -0.08778824, y: -0.0024324036, z: 0.000123291}
+      rotation: {x: -0.7044092, y: -0.061835147, z: 0.7044092, w: -0.06157766}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: skeleton_knight_ L Clavicle
+      position: {x: 0.01879837, y: 0.0058022877, z: 0.038251016}
+      rotation: {x: 0.7043915, y: 0.06190989, z: -0.70439136, w: 0.061907984}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.9999999}
+      transformModified: 1
+    - name: skeleton_knight_ L UpperArm
+      position: {x: -0.14085898, y: 1.4901161e-10, z: 0}
+      rotation: {x: 0.01460489, y: 0.0049118306, z: -0.00007816737, w: -0.99988127}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.9999994}
+      transformModified: 1
+    - name: skeleton_knight_ L Forearm
+      position: {x: -0.33155295, y: 0, z: 0}
+      rotation: {x: 0.000000014901158, y: -0.00000005960463, z: 0.009955016, w: -0.9999505}
+      scale: {x: 0.9999998, y: 1, z: 0.99999976}
+      transformModified: 1
+    - name: SHIELD
+      position: {x: -0.20117667, y: 0.00346004, z: 0.014585399}
+      rotation: {x: 0.003445268, y: 0.70078623, z: -0.0045154304, w: 0.71334875}
+      scale: {x: 0.99999994, y: 1.0000004, z: 1}
+      transformModified: 1
+    - name: skeleton_knight_ L Hand
+      position: {x: -0.27322295, y: 0, z: 0}
+      rotation: {x: 1, y: 0, z: 0.00000005960463, w: -0.00039806953}
+      scale: {x: 1.0000001, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: skeleton_knight_ L Finger2
+      position: {x: -0.090510026, y: -0.000012280941, z: -0.011655007}
+      rotation: {x: -0.0003979504, y: 0.034406826, z: -0.000013664365, w: 0.9994079}
+      scale: {x: 0.9999997, y: 0.99999994, z: 0.9999997}
+      transformModified: 1
+    - name: skeleton_knight_ L Finger21
+      position: {x: -0.034076, y: 0, z: -0.000000019073486}
+      rotation: {x: -0.000000029802319, y: 0.000000014901159, z: -0.039767977, w: 0.999209}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: skeleton_knight_ L Finger22
+      position: {x: -0.040239103, y: -0.000000009536743, z: 0}
+      rotation: {x: 0.000000059604638, y: 0.000000014901159, z: -0.116402104, w: 0.9932022}
+      scale: {x: 1, y: 0.99999976, z: 1}
+      transformModified: 1
+    - name: skeleton_knight_ L Finger1
+      position: {x: -0.09090996, y: -0.000036811827, z: -0.033669986}
+      rotation: {x: 0.0004170239, y: 0.029223561, z: 0.027849242, w: 0.99918485}
+      scale: {x: 1.0000002, y: 0.99999976, z: 1.0000004}
+      transformModified: 1
+    - name: skeleton_knight_ L Finger11
+      position: {x: -0.032416, y: 0.0000000047683715, z: 0.000000019073486}
+      rotation: {x: -0.0000004973257, y: 0.0000021066492, z: -0.037770532, w: 0.9992865}
+      scale: {x: 0.9999996, y: 0.99999994, z: 0.99999964}
+      transformModified: 1
+    - name: skeleton_knight_ L Finger12
+      position: {x: -0.032580033, y: 0, z: -0.000000019073486}
+      rotation: {x: 0.00000044703472, y: 0.00000014901158, z: -0.116401926, w: 0.9932022}
+      scale: {x: 1.0000002, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: skeleton_knight_ L Finger0
+      position: {x: -0.026636962, y: 0.0074689053, z: -0.047841966}
+      rotation: {x: 0.65087664, y: -0.24737713, z: -0.24785843, w: 0.67359513}
+      scale: {x: 0.9999993, y: 1, z: 0.9999994}
+      transformModified: 1
+    - name: skeleton_knight_ L Finger01
+      position: {x: -0.031297036, y: 0, z: 0}
+      rotation: {x: 0.00000000931322, y: -0.0000011026852, z: -0.03957103, w: 0.9992168}
+      scale: {x: 1.0000001, y: 0.9999997, z: 0.9999997}
+      transformModified: 1
+    - name: skeleton_knight_ L Finger02
+      position: {x: -0.029917106, y: 0.000000038146972, z: 0}
+      rotation: {x: 0.0024588665, y: 0.05299815, z: -0.18564127, w: 0.9811842}
+      scale: {x: 1.0000004, y: 0.99999994, z: 1.0000005}
+      transformModified: 1
+    - name: skeleton_knight_ L Finger3
+      position: {x: -0.09047996, y: 0.00000796318, z: 0.010003986}
+      rotation: {x: 0.0019021621, y: 0.049943693, z: 0.04587055, w: 0.99769634}
+      scale: {x: 1.0000001, y: 1.0000004, z: 0.99999976}
+      transformModified: 1
+    - name: skeleton_knight_ L Finger31
+      position: {x: -0.028335951, y: 0, z: 0}
+      rotation: {x: -0.0000042840798, y: 0.0000005811447, z: -0.037770126, w: 0.9992865}
+      scale: {x: 0.99999976, y: 1.0000002, z: 0.99999976}
+      transformModified: 1
+    - name: skeleton_knight_ L Finger32
+      position: {x: -0.03354805, y: 0, z: -0.000000019073486}
+      rotation: {x: 0.00000038743002, y: 0.00000019371501, z: -0.11640199, w: 0.99320227}
+      scale: {x: 0.99999976, y: 0.99999976, z: 0.9999997}
+      transformModified: 1
+    - name: skeleton_knight_ L Finger4
+      position: {x: -0.08890907, y: 0.000044980046, z: 0.031373978}
+      rotation: {x: 0.0032320602, y: 0.06886014, z: 0.052461717, w: 0.99624074}
+      scale: {x: 0.99999994, y: 0.99999946, z: 0.9999999}
+      transformModified: 1
+    - name: skeleton_knight_ L Finger41
+      position: {x: -0.02219902, y: 0, z: 0.000000009536743}
+      rotation: {x: -0.0000020628775, y: -0.00000003352758, z: -0.03707202, w: 0.9993126}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: skeleton_knight_ L Finger42
+      position: {x: -0.02874199, y: 0, z: -0.000000009536743}
+      rotation: {x: -0.00000014901154, y: 0.000000059604616, z: -0.11640204, w: 0.9932022}
+      scale: {x: 0.99999976, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: skeleton_knight_ R Clavicle
+      position: {x: 0.018798217, y: 0.0058024786, z: -0.038250986}
+      rotation: {x: -0.70439136, y: -0.06190799, z: -0.70439154, w: 0.06190987}
+      scale: {x: 0.9999995, y: 0.9999997, z: 0.9999998}
+      transformModified: 1
+    - name: skeleton_knight_ R UpperArm
+      position: {x: -0.14085898, y: 0, z: 0}
+      rotation: {x: 0.014611085, y: 0.0046995822, z: 0.000081107195, w: 0.9998822}
+      scale: {x: 0.99999994, y: 1.0000004, z: 0.99999994}
+      transformModified: 1
+    - name: skeleton_knight_ R Forearm
+      position: {x: -0.33155295, y: 0, z: 0.000000019073486}
+      rotation: {x: 0.000000029802319, y: 0.000000059604638, z: -0.009955003, w: 0.9999505}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: skeleton_knight_ R Hand
+      position: {x: -0.27322304, y: 0, z: -0.000000019073486}
+      rotation: {x: 1, y: 0.00000008940694, z: 0, w: 0.00039812908}
+      scale: {x: 1.0000002, y: 1, z: 0.99999976}
+      transformModified: 1
+    - name: 2HANDED_SWORD
+      position: {x: -0.061999433, y: 0.029063093, z: -0.004417}
+      rotation: {x: 0.69346654, y: -0.005532028, z: 0.72021276, w: -0.019163588}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: SWORD
+      position: {x: -0.061999433, y: 0.029063093, z: -0.004417}
+      rotation: {x: 0.69346654, y: -0.005532028, z: 0.72021276, w: -0.019163588}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: WEAPON_BONE
+      position: {x: -0.06203674, y: 0.029145582, z: -0.0041524125}
+      rotation: {x: 0.6934665, y: -0.0055318563, z: 0.72021276, w: -0.019163772}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: skeleton_knight_ R Finger2
+      position: {x: -0.090510026, y: -0.000012280941, z: 0.011655007}
+      rotation: {x: 0.0003978461, y: -0.034406915, z: -0.000013649464, w: 0.9994079}
+      scale: {x: 0.9999998, y: 1.0000004, z: 0.9999999}
+      transformModified: 1
+    - name: skeleton_knight_ R Finger21
+      position: {x: -0.034076, y: 0.0000000023841857, z: -0.000000019073486}
+      rotation: {x: 0.00000020861623, y: -0.000000029802319, z: -0.03976799, w: 0.999209}
+      scale: {x: 0.99999976, y: 0.99999964, z: 0.9999997}
+      transformModified: 1
+    - name: skeleton_knight_ R Finger22
+      position: {x: -0.04023903, y: 0, z: 0.000000009536743}
+      rotation: {x: -0.00000017881392, y: -0.000000059604638, z: -0.116402194, w: 0.99320215}
+      scale: {x: 1, y: 0.99999976, z: 0.99999994}
+      transformModified: 1
+    - name: skeleton_knight_ R Finger1
+      position: {x: -0.09091003, y: -0.000036809444, z: 0.033669986}
+      rotation: {x: -0.0004171431, y: -0.029223666, z: 0.027849302, w: 0.9991848}
+      scale: {x: 1.0000006, y: 1, z: 1.0000004}
+      transformModified: 1
+    - name: skeleton_knight_ R Finger11
+      position: {x: -0.032415923, y: -0.0000000023841857, z: 0.000000019073486}
+      rotation: {x: 0.00000077485964, y: -0.000001091509, z: -0.03777028, w: 0.9992864}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: skeleton_knight_ R Finger12
+      position: {x: -0.032580107, y: 0, z: -0.000000038146972}
+      rotation: {x: -0.00000026822093, y: -0.00000013411046, z: -0.11640205, w: 0.9932022}
+      scale: {x: 0.9999998, y: 1, z: 1.0000002}
+      transformModified: 1
+    - name: skeleton_knight_ R Finger0
+      position: {x: -0.026637038, y: 0.0074689076, z: 0.047841966}
+      rotation: {x: -0.6508763, y: 0.2473757, z: -0.24786116, w: 0.67359495}
+      scale: {x: 0.99999964, y: 1.0000002, z: 0.99999964}
+      transformModified: 1
+    - name: skeleton_knight_ R Finger01
+      position: {x: -0.031297073, y: 0, z: 0}
+      rotation: {x: 0.00000010617066, y: -0.0000014901145, z: -0.03957843, w: 0.99921656}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: skeleton_knight_ R Finger02
+      position: {x: -0.029916916, y: -0.000000076293944, z: 0}
+      rotation: {x: -0.002458699, y: -0.05299814, z: -0.18564136, w: 0.98118424}
+      scale: {x: 1, y: 0.99999976, z: 0.99999994}
+      transformModified: 1
+    - name: skeleton_knight_ R Finger3
+      position: {x: -0.09048004, y: 0.000007965565, z: -0.010003986}
+      rotation: {x: -0.0019023558, y: -0.049944036, z: 0.04587064, w: 0.99769634}
+      scale: {x: 0.99999994, y: 1.0000006, z: 0.9999998}
+      transformModified: 1
+    - name: skeleton_knight_ R Finger31
+      position: {x: -0.028335951, y: 0, z: 0.000000019073486}
+      rotation: {x: 0.000004410739, y: 0.0000003278252, z: -0.037770458, w: 0.9992864}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: skeleton_knight_ R Finger32
+      position: {x: -0.033548124, y: -0.000000009536743, z: 0}
+      rotation: {x: -0.00000035762767, y: -0.0000002533196, z: -0.11640214, w: 0.99320215}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.9999998}
+      transformModified: 1
+    - name: skeleton_knight_ R Finger4
+      position: {x: -0.08890899, y: 0.000044982433, z: -0.03137394}
+      rotation: {x: -0.0032321347, y: -0.0688604, z: 0.052461747, w: 0.99624074}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1}
+      transformModified: 1
+    - name: skeleton_knight_ R Finger41
+      position: {x: -0.02219902, y: -0.0000000047683715, z: -0.000000009536743}
+      rotation: {x: 0.0000019371494, y: -0.0000022277218, z: -0.037072096, w: 0.99931264}
+      scale: {x: 1, y: 0.99999994, z: 1.0000002}
+      transformModified: 1
+    - name: skeleton_knight_ R Finger42
+      position: {x: -0.028742066, y: -0.000000009536743, z: 0.000000019073486}
+      rotation: {x: 0.00000010430808, y: 0.000000044703462, z: -0.11640211, w: 0.99320215}
+      scale: {x: 0.9999997, y: 0.9999999, z: 0.9999997}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
