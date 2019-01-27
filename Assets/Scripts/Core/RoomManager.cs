@@ -70,7 +70,7 @@ public class RoomManager : MonoBehaviour {
     // Use this for initialization
     void Start ()
     {
-        StartCoroutine(SpawnHorde(hordeSize: 20, room: -1));
+        StartCoroutine(SpawnHorde(hordeSize: 10, room: -1));
     }
 	
 	// Update is called once per frame
